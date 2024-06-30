@@ -21,7 +21,7 @@ const Intro = () => {
 
         <div className="font-semibold ">
           <p className="font-mono font-normal text-3xl py-2">
-            Hi! My name is Rohit Goyal and I am a software engineer.
+            Hi! My name is Rohit Goyal and I am a software engineer. 
           </p>
           <p className="py-2 italic">
             I work for Hexaware Technologies, developing value driven, full
